@@ -21,23 +21,24 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 decentralized-voting-system-/
-contracts/
-Voting.sol
-migrations/
-1_initial_migration.js
-2_deploy_contracts.js
-truffle-config.js
-backend/
-package.json
-server.js
-frontend/
-package.json
-public/
-index.html
-src/
-App.js
-index.js
-README.md
+  contracts/
+    Voting.sol
+    migrations/
+      1_initial_migration.js
+      2_deploy_contracts.js
+    truffle-config.js
+  backend/
+    package.json
+    server.js
+  frontend/
+    package.json
+    public/
+      index.html
+    src/
+      App.js
+      index.js
+    README.md
+
 
 
 ## Getting Started
